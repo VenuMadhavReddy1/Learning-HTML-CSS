@@ -3,7 +3,7 @@
 :root {
     --primary-color: #7c3aed;
     --dark-gray: #4b5563;
-    --off-zinc: #52525b;
+    --light-blue:#dbeafe;
 }
 
 body {
@@ -113,7 +113,7 @@ hr {
 }
 
 .ow {
-    background-color: var(--off-zinc);
+    background-color: var(--light-blue);
 }
 
 
